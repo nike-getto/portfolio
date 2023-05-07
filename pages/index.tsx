@@ -27,7 +27,7 @@ export default function Home() {
 			</section>
 
 			<section id='skills' className='snap-start'>
-				<Skills />
+				{/* <Skills /> */}
 			</section>
 		</div>
 	)
